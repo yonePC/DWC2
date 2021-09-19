@@ -1,0 +1,1 @@
+{"mime":"text/x-script.ruby","filter":false,"title":"lesson3~6.rb","tooltip":"/Ruby/確認問題/lesson3~6.rb","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1631146727228,"hash":"8050c4e5eef17c13b40beb800c6a46768301ea7e"}
